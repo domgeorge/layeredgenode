@@ -1,4 +1,4 @@
-# **LayerEdge Node**
+# **LayerEdge CLI Verifier**
 
 ## 1. Install Dependencies
 Install Go 1.18 or higher (so I installed the latest version 1.24.1 instead)
